@@ -7,5 +7,5 @@
 ### Class details:
 * Hall
     * hall_name - string
-    * hall_cost - number
+    * hall_rent - number
     * hall_size - number
